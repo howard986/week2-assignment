@@ -14,4 +14,4 @@
       4）用三幅图形显示了RANSAC效果：  
          * 使用RANSAC前.PNG  
          * 使用RANSAC后.PNG  
-         * 匹配不准确的结果.PNG  (把被RANSAC剔除的结果也单独显示出来)  
+         * 匹配不准确的结果.PNG  (就是被RANSAC剔除的结果)  
